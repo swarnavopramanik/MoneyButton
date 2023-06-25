@@ -50,7 +50,7 @@ Set of guidelines to help you during the contribution process.
   
 🌟 Fork this repository by clicking on the "Fork" button.
 
-🌟 Clone the forked repository `https://github.com/<Your-username>/Admin-Panel.git`
+🌟 Clone the forked repository `https://github.com/<Your-username>/MoneyButton`
  
 Keep a reference to the original project in `upstream` remote.
 
@@ -97,8 +97,8 @@ git push origin branch_name
 ### 🛠️ Installation
 
 1. Fork the repo
-2. Clone the repository `https://github.com/<Your-username>/Admin-Panel.git`
-3. Run `cd Admin-Panel` to change the working directory
+2. Clone the repository `https://github.com/<Your-username>/MoneyButton`
+3. Run `cd MoneyButton` to change the working directory
 4. Run `npm install` to install all dependencies
 5. Run `npm start` to start the application
 6. Visit [http://localhost:3000](http://localhost:3000) to view the application
@@ -112,9 +112,6 @@ git push origin branch_name
 #### React.js
 React is one of the most popular web frontend libraries in the world, hitting almost 30 million downloads every month according to the NPM trends tracker. It is a declarative and component-based library, making use of the so-called state to propagate changes throughout the components of your application.
 
-
-## 🛡️ License
-tourism-website is licensed under the [AGPL-3.0 license v3.0](https://github.com/swarnavopramanik/Admin-Panel/blob/main/license.txt) - see the LICENSE file for details.
 
 ## 🙏 Support
 This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
