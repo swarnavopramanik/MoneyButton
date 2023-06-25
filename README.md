@@ -1,5 +1,6 @@
 
-<h1 align="center"> Moneybutton 🔼🔽 </h1>
+<h1 align="center"> Moneybutton 🔼🔽 ![image](https://github.com/swarnavopramanik/MoneyButton/assets/105142693/a0a5c1c0-8a16-4749-99f6-ae8b84d24296)
+</h1>
 
 <h4 align="center">MoneyButton is a wallet that gives us access to the BSV blockchain of the Bitcoin network. It is completely without custody, so we are in charge of the “keys”, coins and financial sovereignty. MoneyButton works wonderfully as a peer payment tool with a simple and functional interface and a very easy to learn interface: we enter an address and swipe to pay. Simple . </h4>
 
