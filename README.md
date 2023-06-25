@@ -22,3 +22,7 @@
  # This project is a part of the following Open Source Program!
 
 ![image](https://github.com/swarnavopramanik/MoneyButton/assets/105142693/8052b9d2-cb80-42df-b609-747f66dab4d3)
+
+## 🚀 About 
+
+It was just the tool that I was looking for and that although I tried to use Ethereum at the beginning for it, the truth is that with Bitcoin SV I am now happier since it does not have the whole roll of Gas and in the end the issue of donations tokens not It is necessary, with Digital Cash is enough. I have also been able to see that MoneyButton buttons can make payment distribution in several accounts at the same time, something that can be very useful for example, in the world of intellectual property and music distribution.
