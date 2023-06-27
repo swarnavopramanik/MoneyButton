@@ -33,6 +33,20 @@ It was just the tool that I was looking for and that although I tried to use Eth
 ![Screenshot (566)](https://github.com/swarnavopramanik/MoneyButton/assets/105142693/b62e301f-e03d-4be7-ba66-2ec576dabf5f)
 ![Screenshot (567)](https://github.com/swarnavopramanik/MoneyButton/assets/105142693/6b8ef8e6-ae8e-4bed-b487-eaecb994e33b)
 
+# money-button-donate
+
+Demostrates various ways to customize the donation amount for the Money Button
+
+# Installation
+
+1.  Clone the repository
+2.  run `npm install`
+3.  run `npm start`
+
+## Money Button config
+
+https://www.moneybutton.com/config
+
 
 ### 🧾 Prerequisites
 
