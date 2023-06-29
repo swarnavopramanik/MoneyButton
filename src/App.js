@@ -46,21 +46,6 @@ class App extends Component {
 
   componentDidMount() {
 
-    // let tokenKey="mb_js_client:oauth_access_token";
-    // console.log(tokenKey);
-    // if (localStorage.hasOwnProperty(tokenKey)) {
-    //   let token = localStorage.getItem(tokenKey);
-    //   console.log(token);
-    //   //$oauth_client = new Oauth($consumerKey,$consumerSecret);
-    //   axios.get('https://auth.moneybutton.com/oauth/v1/whoami')
-    //     .then(response => this.setState({to:response["id"]}))
-    //     .catch(error => {
-    //       this.setState({to:0});
-    //       console.error(error);
-    //     });
-    // } else {
-    //   console.log("no token");
-    // }
 
   }
 
