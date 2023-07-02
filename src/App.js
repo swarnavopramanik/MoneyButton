@@ -172,6 +172,13 @@ class App extends Component {
                 <input type="checkbox" radioGroup="type" checked={this.state.type === 'tip'} onChange={this.updateType('tip')}></input> Tip
                 {' '}            
                 <input type = /* "radio" */ "checkbox" radioGroup="type" checked={this.state.type === 'buy'} onChange={this.updateType('buy')}></input> Buy
+                <MoneyButtonDonate display="input"
+                  devMode={this.state.devMode} labelMoneyButton={this.state.type}
+                  labelAmount = {this.state.labelAmount} labelReference = {this.state.labelReference}
+                  showTransaction = {this.state.configTransactionAfterPayment} showSocialMedia = {this.state.configSocialMediaAfterPayment}
+                  buttonId={this.state.buttonId} buttonData={buttonData} clientIdentifier={this.state.clientIdentifier}
+                  type={this.state.type} to={this.state.to} defaultAmount={this.state.defaultAmount}
+                />
                 </Col>
               </Row>
               <Row>

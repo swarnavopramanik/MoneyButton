@@ -38,6 +38,7 @@ class MoneyButtonDonate extends React.Component {
 
     handleChangeAmount = event => {
         this.setState({ amount: event.target.value });
+        this.setState({labelMoneyButton: event.target.value})
     }
     handleChangeReference = event => {
         this.setState({ reference: event.target.value });
